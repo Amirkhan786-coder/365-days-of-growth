@@ -135,9 +135,35 @@ After completing Day 1, I can:
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
-Screenshots of the code, output, and terminal are available in the **Images** folder.
+## 💻 VS Code
+
+![VS Code](Image/VS_CODE.png)
+
+---
+
+## 🎓 Student Information System Output
+
+![Student Information System](Image/Student_Info_Output.png)
+
+---
+
+## 📊 Marks Percentage Calculator Output
+
+![Marks Calculator](Image/Marks_Calculator_Output.png)
+
+---
+
+## 💻 Terminal Output
+
+![Terminal](Image/Terminal_Output.png)
+
+---
+
+## 🌐 GitHub Repository
+
+![GitHub Repository](Image/GitHub_Repository.png)
 
 ---
 
