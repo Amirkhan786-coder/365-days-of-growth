@@ -1,0 +1,25 @@
+print("=" * 50)
+print("      STUDENT INFORMATION SYSTEM")
+print("=" * 50)
+
+name = input("Enter Student Name: ")
+roll = input("Enter Roll Number: ")
+branch = input("Enter Branch: ")
+college = input("Enter College Name: ")
+semester = input("Enter Semester: ")
+cgpa = float(input("Enter CGPA: "))
+
+print("\n" + "=" * 50)
+print("        STUDENT DETAILS")
+print("=" * 50)
+
+print(f"Name      : {name}")
+print(f"Roll No   : {roll}")
+print(f"Branch    : {branch}")
+print(f"College   : {college}")
+print(f"Semester  : {semester}")
+print(f"CGPA      : {cgpa}")
+
+print("=" * 50)
+print("Data Saved Successfully ✅")
+print("=" * 50)
