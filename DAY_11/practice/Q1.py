@@ -1,10 +1,11 @@
+# Q1. Handle ValueError
 # Question:
-# Create a file named "student.txt" and write your name into it.
+# Take an integer input from the user.
+# If the user enters invalid input, handle ValueError.
 
-file = open("student.txt", "w")
+try:
+    number = int(input("Enter a number: "))
+    print("You entered:", number)
 
-file.write("Amir Khan")
-
-file.close()
-
-print("Data Written Successfully!")
+except ValueError:
+    print("Invalid input! Please enter an integer.")
