@@ -1,12 +1,6 @@
-Perfect bhai 🔥 Ab `365-days-of-growth` repo ka **main README.md** set karte hain. Ye tumhari complete **1-Year AIML + Software/Programming Growth Journey** ka homepage hoga.
-
-## 📌 Step 1: Old `README.md` ka content replace karo
-
-GitHub repo ya VS Code me `README.md` open karo aur purana content hata kar **ye complete content copy-paste** karo:
 
 # 🚀 365 Days of Growth — AIML Journey
 
-````md
 # 🚀 365 Days of Growth
 
 ### From Student to Internship-Ready AI/ML Engineer
