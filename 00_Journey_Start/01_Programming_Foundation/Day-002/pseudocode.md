@@ -1,0 +1,83 @@
+# 📝 Pseudocode Practice
+
+## 1. Add Two Numbers
+
+START
+
+INPUT A
+
+INPUT B
+
+RESULT = A + B
+
+DISPLAY RESULT
+
+STOP
+
+---
+
+## 2. Find the Square of a Number
+
+START
+
+INPUT NUMBER
+
+SQUARE = NUMBER × NUMBER
+
+DISPLAY SQUARE
+
+STOP
+
+---
+
+## 3. Calculate Rectangle Area
+
+START
+
+INPUT LENGTH
+
+INPUT WIDTH
+
+AREA = LENGTH × WIDTH
+
+DISPLAY AREA
+
+STOP
+
+---
+
+## 4. Calculate Total Marks
+
+START
+
+INPUT MARK1
+
+INPUT MARK2
+
+INPUT MARK3
+
+TOTAL = MARK1 + MARK2 + MARK3
+
+DISPLAY TOTAL
+
+STOP
+
+---
+
+## 5. Calculate Average
+
+START
+
+INPUT NUMBER1
+
+INPUT NUMBER2
+
+INPUT NUMBER3
+
+SUM = NUMBER1 + NUMBER2 + NUMBER3
+
+AVERAGE = SUM / 3
+
+DISPLAY AVERAGE
+
+STOP
